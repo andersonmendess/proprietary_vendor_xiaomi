@@ -69,7 +69,7 @@
         <!-- CPUBOOST_MIN_FREQ BIG Core resource opcode, value -->
         <!-- SCHEDBOOST resource opcode, value-->
         <Config
-            Id="0x00001080" Type="1" Enable="true"  Target="msm8953"
+            Id="0x00001080" Type="1" Enable="true"  Target="sdm632"
             Resources="0x40800100, 0x40C, 0x40800000, 0x446,0x40C00000, 0x2" />
 
         <!-- CPUBOOST_MIN_FREQ LITTLE Core resource opcode, value -->
@@ -83,7 +83,7 @@
         <!-- CPUBOOST_MIN_FREQ BIG Core resource opcode, value -->
         <!-- SCHEDBOOST resource opcode, value-->
         <Config
-            Id="0x00001080" Type="2" Enable="true"  Target="msm8953"
+            Id="0x00001080" Type="2" Enable="true"  Target="sdm632"
             Resources="0x40800100, 0x40C, 0x40800000, 0x446,0x40C00000, 0x2" />
 
         <!-- CPUBOOST_MIN_FREQ LITTLE Core resource opcode, value -->
